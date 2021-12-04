@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WmejAmNhChkwtag5RBmHK+hQmWNyfP9V8y0dDWbziH3867BhAl3hb1gftmZyiG19jxsg7/DIwcAsRqP/q0tHcA==",
+  "dgSpecHash": "wr4805hP3+vJnk3DiZgqUO9bSB/fV1mkGw4L3Yoj+CKWIvZzuF3McwDMNDcp+NwKhR/IoowwhdbJ2XOOWzRDPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\userone\\Desktop\\Proyectos\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\Users\\userone\\Downloads\\Proyectos\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\userone\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.12\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.12.nupkg.sha512",
     "C:\\Users\\userone\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.11\\microsoft.aspnetcore.mvc.razor.extensions.5.0.11.nupkg.sha512",
