@@ -11,6 +11,7 @@ namespace ContosoUniversity.Models
         public int ID { get; set; }
         public string LastName { get; set; }
         public string FirstName { get; set; }
+
         public DateTime EnrollmentDate { get; set; }
 
         // Si una propiedad de navegación puede contener varias entidades
