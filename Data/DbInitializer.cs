@@ -37,13 +37,13 @@ namespace ContosoUniversity.Data
 
             var courses = new Course[]
             {
-                new Course{CourseID=1050, Title1="Chemistry", Credits=3 },
-                new Course{CourseID=4022, Title1="Microeconomias"},
-                new Course{CourseID=4041,Title1="Macroeconomics",Credits=3},
-                new Course{CourseID=1045,Title1="Calculus",Credits=4},
-                new Course{CourseID=3141,Title1="Trigonometry",Credits=4},
-                new Course{CourseID=2021,Title1="Composition",Credits=3},
-                new Course{CourseID=2042,Title1="Literature",Credits=4}
+                new Course{CourseID=1050, Title="Chemistry", Credits=3 },
+                new Course{CourseID=4022, Title="Microeconomias"},
+                new Course{CourseID=4041,Title="Macroeconomics",Credits=3},
+                new Course{CourseID=1045,Title="Calculus",Credits=4},
+                new Course{CourseID=3141,Title="Trigonometry",Credits=4},
+                new Course{CourseID=2021,Title="Composition",Credits=3},
+                new Course{CourseID=2042,Title="Literature",Credits=4}
             };
 
             foreach (Course c in courses)
