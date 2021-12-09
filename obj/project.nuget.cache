@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GLM0pui2sIYLiJcv/fZBTZspogbRCwHAkhpw3FJNAv7e6DS9LZSoGehz3MSMbA0k8ZF5x+PfGmQ8W8Tl6MBkZg==",
+  "dgSpecHash": "BbKTDR4FnvC8+EkDFYHMtSSWeGheoKEdU8Ena70l5O8o8Rf6MOIUwn9xSQTwqAOICwAY3H9Ys0jl9KdwvDrnQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\userone\\Desktop\\Proyectos\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\Users\\userone\\Downloads\\Proyectos\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\userone\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\userone\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.12\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.12.nupkg.sha512",
