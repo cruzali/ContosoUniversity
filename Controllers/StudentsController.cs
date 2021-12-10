@@ -33,7 +33,7 @@ namespace ContosoUniversity.Controllers
             if (!String.IsNullOrEmpty(searchString))
             {
                 studentsEntity = studentsEntity.Where(
-                    st => st.LastName.ToUpper().Contains(searchString) ||
+                    st => st.LastName.ToUpper().Contains(searchString.ToUpper()) ||
                     st.FirstName.Contains(searchString));
             }
 
