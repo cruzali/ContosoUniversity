@@ -48,7 +48,7 @@ namespace ContosoUniversity.Controllers
             {
                 studentsEntity = studentsEntity.Where(
                     st => st.LastName.Contains(searchString) ||
-                    st.FirstName.Contains(searchString));
+                    st.FirstMidName.Contains(searchString));
             }
 
             switch (sortOrder)
@@ -161,7 +161,7 @@ namespace ContosoUniversity.Controllers
             if (await TryUpdateModelAsync<Student> (
                 studentToUpdate,
                 "",
-                s => s.FirstName, 
+                s => s.FirstMidName, 
                 s => s.LastName, 
                 s => s.EnrollmentDate))
             {
