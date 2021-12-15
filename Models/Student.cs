@@ -11,17 +11,30 @@ namespace ContosoUniversity.Models
     public class Student
     {
         public int ID { get; set; }
-        [StringLength(50)]
+        [Required]        
+        [StringLength(50, MinimumLength = 2)]
+        [Display(Name = "Last Name")]
         public string LastName { get; set; }
+        [Required]
         [StringLength(50)]
         [RegularExpression(@"^[A-Z]+[a-zA-Z]*$")]
         [Column("FirstName")]
+        [Display(Name = "First Name")]
         public string FirstMidName { get; set; }
+
 
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
+        [Display(Name = "Enrollment Date")]
         public DateTime EnrollmentDate { get; set; }
 
+        public string FullName
+        {
+            get
+            {
+                return LastName + ", " + FirstMidName;
+            }
+        }
         // Si una propiedad de navegación puede contener varias entidades
         // entonces resulta en un listado y debe usar: 
         // ICollection, List o HashSet
