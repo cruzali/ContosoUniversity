@@ -434,7 +434,6 @@ C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\View
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
-C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
 C:\Users\userone\Downloads\Proyectos\ContosoUniversity\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\userone\Downloads\Proyectos\ContosoUniversity\bin\Debug\net5.0\appsettings.json
 C:\Users\userone\Downloads\Proyectos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.exe
@@ -873,3 +872,5 @@ C:\Users\userone\Downloads\Proyectos\ContosoUniversity\obj\Debug\net5.0\ref\Cont
 C:\Users\userone\Downloads\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.pdb
 C:\Users\userone\Downloads\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
 C:\Users\userone\Downloads\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
