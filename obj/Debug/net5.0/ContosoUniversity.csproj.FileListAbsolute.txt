@@ -873,7 +873,6 @@ C:\Users\userone\Downloads\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoU
 C:\Users\userone\Downloads\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
 C:\Users\userone\Downloads\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Delete.cshtml.g.cs
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Details.cshtml.g.cs
@@ -884,3 +883,4 @@ C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\View
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Details.cshtml.g.cs
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Edit.cshtml.g.cs
 C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Index.cshtml.g.cs
+C:\Users\userone\Desktop\Proyectos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
